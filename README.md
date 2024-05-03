@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Altau38650
-- 👀 I’m interested in nextcloud
+- 👋 Hi, I’m @Altau38650, leaving in France
+- 👀 I’m interested in nextcloud and Home Assistant
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nextcloud
+- 💞️ I’m looking to collaborate on nextcloud and Home Assistant
 - 📫 How to reach me : not possible at this moment
 
 <!---
